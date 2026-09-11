@@ -1,0 +1,12 @@
+{
+    "students": [
+        {
+            "name": "Shikhar singh",
+            "age": 18,
+            "email": "shikhar,intelligence123@gmail.com",
+            "roll_no": "26155612",
+            "grades": {}
+        }
+    ],
+    "teachers": []
+}
